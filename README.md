@@ -11,7 +11,7 @@
 ## Инструкции по использованию
 
 1. **Необходимые библиотеки:**
-   Убедитесь, что у вас установлены необходимые библиотеки Python. Вы можете установить их с помощью pip: pip install python-telegram-bot requests beautifulsoup4
+   Убедитесь, что у вас установлены необходимые библиотеки Python. Вы можете установить их с помощью pip: pip install python-telegram-bot==13.7 requests beautifulsoup4
       
 2. **Настройка токена:**
 Замените `'YOUR_BOT_TOKEN'` на реальный токен вашего Telegram-бота, полученный от BotFather, в файле `game_bot.py`:
